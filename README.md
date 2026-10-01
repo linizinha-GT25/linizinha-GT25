@@ -14,8 +14,6 @@ keyTimes="0;.0278;.0556;.0833;.1111;.1389;.1667;.1944;.2222;.25;.2778;.3056;.333
 </tspan></text>
 <rect x="870" y="29" width="3" height="33" class="cursor"/>
 </svg>
-
-
 <p align="center">
   <img src="amo-estudar-typing.svg" alt="Amo estudar e aprender todos os dias!" />
 </p>
