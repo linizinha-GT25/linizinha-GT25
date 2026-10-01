@@ -1,8 +1,5 @@
 👋 Olá, eu sou a Aline!
 
-<p align="center">
-  <img src="amo-estudar-typing.svg" alt="Amo estudar e aprender todos os dias!" />
-</p>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
 <style>
@@ -18,6 +15,10 @@ keyTimes="0;.0278;.0556;.0833;.1111;.1389;.1667;.1944;.2222;.25;.2778;.3056;.333
 <rect x="870" y="29" width="3" height="33" class="cursor"/>
 </svg>
 
+
+<p align="center">
+  <img src="amo-estudar-typing.svg" alt="Amo estudar e aprender todos os dias!" />
+</p>
 
 💻 Desenvolvedora Full Stack em formação | 🎨 Designer Gráfico
 Estou em transição e evolução na área de tecnologia, estudando desenvolvimento Full Stack e unindo programação com minha experiência em design e criatividade.
