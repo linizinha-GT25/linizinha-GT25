@@ -1,7 +1,8 @@
 👋 Olá, eu sou a Aline!
 
-<h2 align="center"> 
-  <span> AMO ESTUDAR E APRENDER TODOS OS DIAS</span> </h2>
+<p align="center"> 
+  <img src="amo-estudar-typing.svg" alt="Amo estudar e aprender todos os dias!" /> 
+</p>
 
 💻 Desenvolvedora Full Stack em formação | 🎨 Designer Gráfico
 Estou em transição e evolução na área de tecnologia, estudando desenvolvimento Full Stack e unindo programação com minha experiência em design e criatividade.
