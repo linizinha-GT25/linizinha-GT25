@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, eu sou a Aline!
+💻 Desenvolvedora Full Stack em formação | 🎨 Designer Gráfico
+Estou em transição e evolução na área de tecnologia, estudando desenvolvimento Full Stack e unindo programação com minha experiência em design e criatividade.
+Gosto de transformar ideias em projetos funcionais, organizados e visualmente agradáveis. 🚀
+🛠️ Tecnologias & Ferramentas
+�
 
-<!--
-**linizinha-GT25/linizinha-GT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+�
+￼ ￼ ￼ ￼ ￼ ￼ ￼
+�
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente
+📚 Estudando Desenvolvimento Full Stack
+🌐 Desenvolvendo projetos para fortalecer meu portfólio
+🎨 Aprimorando UI/UX e Design de Interfaces
+🤖 Explorando ferramentas e aplicações de Inteligência Artificial
+🔧 Praticando Git, GitHub e desenvolvimento de projetos
