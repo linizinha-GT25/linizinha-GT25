@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<style>
+.text{font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:600;fill:#58a6ff}
+.cursor{fill:#58a6ff;animation:blink .8s steps(2,start) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<text x="20" y="56" class="text">📚<tspan>
+<animate attributeName="text" dur="5.18s" repeatCount="indefinite" calcMode="discrete"
+values=";A;Am;Amo;Amo ;Amo e;Amo es;Amo est;Amo estu;Amo estud;Amo estuda;Amo estudar;Amo estudar e;Amo estudar e ;Amo estudar e a;Amo estudar e ap;Amo estudar e apr;Amo estudar e apre;Amo estudar e apren;Amo estudar e aprend;Amo estudar e aprende;Amo estudar e aprender;Amo estudar e aprender ;Amo estudar e aprender t;Amo estudar e aprender to;Amo estudar e aprender tod;Amo estudar e aprender todo;Amo estudar e aprender todos;Amo estudar e aprender todos ;Amo estudar e aprender todos o;Amo estudar e aprender todos os;Amo estudar e aprender todos os ;Amo estudar e aprender todos os d;Amo estudar e aprender todos os di;Amo estudar e aprender todos os dia;Amo estudar e aprender todos os dias;Amo estudar e aprender todos os dias!;Amo estudar e aprender todos os dias!"
+keyTimes="0;.0278;.0556;.0833;.1111;.1389;.1667;.1944;.2222;.25;.2778;.3056;.3333;.3611;.3889;.4167;.4444;.4722;.5;.5278;.5556;.5833;.6111;.6389;.6667;.6944;.7222;.75;.7778;.8056;.8333;.8611;.8889;.9167;.9444;.9722;1"/>
+</tspan></text>
+<rect x="870" y="29" width="3" height="33" class="cursor"/>
+</svg>
